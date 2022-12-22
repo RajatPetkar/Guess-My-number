@@ -1,0 +1,111 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-family: sans-serif;
+  color: #eee;
+  background-color: #222;
+}
+
+header {
+  position: relative;
+  height: 35vh;
+  border-bottom: 7px solid white;
+}
+
+.btn {
+  padding: 2rem;
+  width: 12rem;
+  font-size: 2rem;
+  height: auto;
+  background-color: white;
+}
+
+main {
+  height: 65vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.left {
+  width: 52rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right {
+  width: 52rem;
+  font-size: 2rem;
+}
+
+h1 {
+  position: absolute;
+  width: 100%;
+  top: 52%;
+  left: 50%;
+  text-align: center;
+  font-size: 4rem;
+  transform: translate(-50%, -50%);
+}
+
+.between {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+  font-size: 1.4rem;
+}
+
+.number {
+  background: #eee;
+  color: #333;
+  font-size: 6rem;
+  width: 15rem;
+  padding: 3rem 0rem;
+  text-align: center;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
+.again {
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+}
+
+.guess {
+  width: 25rem;
+  height: 12rem;
+  background-color: #222;
+  border: 5px solid #eee;
+  margin-bottom: 2rem;
+  color: #eee;
+  text-align: center;
+  font-size: 5rem;
+}
+
+.btn-check {
+  padding: 2rem;
+  width: 12rem;
+  font-size: 2rem;
+  height: auto;
+  background-color: white;
+}
+
+.message {
+  margin-bottom: 10rem;
+}
+
+.label-score {
+  margin-bottom: 2rem;
+}
