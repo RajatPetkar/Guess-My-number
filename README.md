@@ -36,9 +36,9 @@ https://guessmtrandomnumber.netlify.app/
 To view How website Look's Like click on the above link
 ## Screenshots
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/RajatPetkar/Guess-My-number/blob/main/GUESS%20MY%20NUMBER/screenshot/Screenshot%20(23).png)
+![App Screenshot](https://github.com/RajatPetkar/Guess-My-number/blob/main/GUESS%20MY%20NUMBER/screenshot/Screenshot%20(24).png)
+
 
 ## Contributing
 
