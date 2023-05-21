@@ -109,3 +109,33 @@ h1 {
 .label-score {
   margin-bottom: 2rem;
 }
+
+@media(max-width:400px){
+  .message {
+    margin-bottom: 7rem;
+  }
+  .btn {
+    padding: 1rem;
+    width: 8rem;
+    font-size: 1rem;
+  }
+  .btn-check {
+    padding: 1rem;
+    width: 8rem;
+    font-size: 1rem;
+  }
+  h1 {
+    font-size: 2rem;
+  }
+  
+  .number {
+    font-size: 3rem;
+    width: 9rem;
+    padding: 1.5rem 0rem;
+  }
+  .guess {
+    width: 17rem;
+    height: 10rem;
+    font-size: 2.5rem;
+  }
+}
