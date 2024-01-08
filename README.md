@@ -1,15 +1,9 @@
 
-# Guess My Number
+# Guess My Number 
 This is a simple "Guess My Number" game built using HTML, CSS, and JavaScript. It challenges players to guess a randomly generated number within a specified range (1-100).
 
 I have create this game based on old day games.
 so I hope theme of this game will blow your mind.
-
-
-## Authors
-
-- [@RajatPetkar](https://www.github.com/RajatPetkar)
-
 
 ## Features
 
